@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching **.gg/creator's lounge**"];
+const statusMessages = ["<:emoji_40:1195392731565010984> Managing Extreme Tickets!"];
 
 
 let currentIndex = 0;
