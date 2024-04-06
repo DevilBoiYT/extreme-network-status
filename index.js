@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["<:emoji_40:1195392731565010984> Managing Extreme Tickets!"];
+const statusMessages = ["Managing Extreme Tickets!"];
 
 
 let currentIndex = 0;
